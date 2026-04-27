@@ -21,6 +21,8 @@ The goal is repeatability: if this machine, distro, or WSL setup needs to be reb
 - `docs/003-backups.md`: WSL VHDX backup and restore commands.
 - `docs/004-keepalive.md`: WSL keepalive service and Windows boot startup task.
 - `docs/005-tmux-vscode.md`: `tmux` auto-attach setup for VS Code integrated terminals.
+- `docs/006-opencode-ollama.md`: OpenCode configured to use local Ollama models.
+- `docs/007-aider-ollama.md`: Aider configured to use local Ollama models.
 
 ## Important Principles
 
